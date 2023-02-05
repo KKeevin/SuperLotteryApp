@@ -1,0 +1,149 @@
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe.config
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\bin\Debug\SuperLottery.pdb
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.exe
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.pdb
+C:\Users\iSpan\Desktop\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe.config
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\bin\Debug\SuperLottery.pdb
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.23(五)\【自主練習】\SuperLottery\SuperLottery\obj\Debug\SuperLottery.pdb
+G:\a.全端\C#\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe.config
+G:\a.全端\C#\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe
+G:\a.全端\C#\SuperLottery\SuperLottery\bin\Debug\SuperLottery.pdb
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.exe
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.pdb
+G:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+D:\a.全端\C#\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe.config
+D:\a.全端\C#\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe
+D:\a.全端\C#\SuperLottery\SuperLottery\bin\Debug\SuperLottery.pdb
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.exe
+D:\a.全端\C#\SuperLottery\SuperLottery\obj\Debug\SuperLottery.pdb
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe.config
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\bin\Debug\SuperLottery.pdb
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.exe
+G:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.pdb
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe.config
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\bin\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\bin\Debug\SuperLottery.pdb
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.29\SuperLottery\SuperLottery\obj\Debug\SuperLottery.pdb
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\bin\Debug\SuperLottery.exe.config
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\bin\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\bin\Debug\SuperLottery.pdb
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.29\SuperLottery v2.0\SuperLottery\obj\Debug\SuperLottery.pdb
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\bin\Debug\SuperLottery.exe.config
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\bin\Debug\SuperLottery.exe
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\bin\Debug\SuperLottery.pdb
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.exe
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.pdb
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.Form4choose.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.1\SuperLottery\obj\Debug\SuperLottery.Form5.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.exe.config
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.pdb
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form4choose.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form5.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.exe
+D:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.pdb
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.exe.config
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.exe
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.pdb
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form4choose.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form5.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.exe
+G:\a.全端\C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.pdb
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.exe.config
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.exe
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\bin\Debug\SuperLottery.pdb
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.AssemblyReference.cache
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form1.resources
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form2.resources
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form3.resources
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form4choose.resources
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Form5.resources
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.Properties.Resources.resources
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.GenerateResource.cache
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.csproj.CoreCompileInputs.cache
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.exe
+D:\a.全端\ㄅ. C#\22.09.29\SuperLottery v2.2\SuperLottery\obj\Debug\SuperLottery.pdb
